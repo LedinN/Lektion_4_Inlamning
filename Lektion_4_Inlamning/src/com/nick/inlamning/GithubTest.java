@@ -1,5 +1,5 @@
 package com.nick.inlamning;
 
-public class Main {
+public class GithubTest {
     //uppgift 7
 }
